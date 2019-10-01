@@ -1,1 +1,2 @@
 document.elementGetById('a')
+oke
