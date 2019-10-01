@@ -1,2 +1,2 @@
 print('Kuyyy')
-oke
+print('edit aja lebih cepet')
